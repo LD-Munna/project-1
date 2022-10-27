@@ -1,0 +1,92 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 148px;
+	background-color: #f1f1f1;
+}
+.header h2{
+	margin: 0px;
+	padding: 47px;
+	text-align: center;
+}
+
+.slider img{
+width: 100%;
+height: 400px;
+}
+
+
+.left-add-section{
+	width: 100%;
+	min-height: 250px;
+	background-image: url(../images/ecom-001_05.png);
+	background-size: 100% 250px;
+	margin-top: 16px;
+
+}
+
+
+.left-add-section h2{
+	color:white;
+	font-size: 22px;
+	padding: 28px;
+}
+
+
+.left-add-section h4{
+	color:white;
+	font-size: 22px;
+	padding-left: 28px;
+}
+
+
+
+.left-add-section button{
+	color:white;
+	background-color: #EB1B23;
+	padding: 10px;
+	border-radius: 3px;
+	border:none;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+
+
+
+.right-add-section{
+	width: 100%;
+	min-height: 250px;
+	background-image: url(../images/ecom-001_07.png);
+	background-size: 100% 250px;
+	margin-top: 16px;
+
+}
+
+
+.right-add-section h2{
+	color:white;
+	font-size: 22px;
+	padding: 28px;
+}
+
+
+.right-add-section h4{
+	color:white;
+	font-size: 22px;
+	padding-left: 28px;
+}
+
+
+
+.right-add-section button{
+	color:white;
+	background-color: #EB1B23;
+	padding: 10px;
+	border-radius: 3px;
+	border:none;
+	margin-left: 28px;
+	margin-top: 20px;
+}
